@@ -1,0 +1,14 @@
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\bin\Debug\Decoratorr.exe.config
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\bin\Debug\Decoratorr.exe
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\bin\Debug\Decoratorr.pdb
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\obj\Debug\Decoratorr.csproj.CoreCompileInputs.cache
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\obj\Debug\Decoratorr.exe
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\obj\Debug\Decoratorr.pdb
+C:\Users\pjach\source\repos\Decoratorr\Decoratorr\obj\Debug\Decoratorr.csprojAssemblyReference.cache
+C:\Users\pjach\Desktop\Decoratorr\bin\Debug\Decoratorr.exe.config
+C:\Users\pjach\Desktop\Decoratorr\bin\Debug\Decoratorr.exe
+C:\Users\pjach\Desktop\Decoratorr\bin\Debug\Decoratorr.pdb
+C:\Users\pjach\Desktop\Decoratorr\obj\Debug\Decoratorr.csprojAssemblyReference.cache
+C:\Users\pjach\Desktop\Decoratorr\obj\Debug\Decoratorr.csproj.CoreCompileInputs.cache
+C:\Users\pjach\Desktop\Decoratorr\obj\Debug\Decoratorr.exe
+C:\Users\pjach\Desktop\Decoratorr\obj\Debug\Decoratorr.pdb

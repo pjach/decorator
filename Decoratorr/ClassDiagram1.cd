@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decoratorr.FileDecorator">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAAAAAAAAAAAAAAAAAAEAABAAAAQAAAAA=</HashCode>
+      <FileName>FileDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decoratorr.LocationDecorator">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAAAAEAAAAAAAACAAAAAAAACAAAQAAAAA=</HashCode>
+      <FileName>LocationDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decoratorr.MobilePhone">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="Decoratorr.Phone" FixedFromPoint="true">
+      <Path>
+        <Point X="3.375" Y="1.062" />
+        <Point X="3.375" Y="1.9" />
+        <Point X="3" Y="1.9" />
+        <Point X="3" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MobilePhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decoratorr.Phone" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAQAAAAAAAAAAAAAAAAAAAAAAABQAIAAA=</HashCode>
+      <FileName>Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decoratorr.PhoneDecorator" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <AssociationLine Name="phone" Type="Decoratorr.Phone" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="1.846" />
+        <Point X="5.875" Y="1.846" />
+        <Point X="5.875" Y="0.75" />
+        <Point X="4.5" Y="0.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAIAAAAAAAAAAAABAAAAAAAAAgAAAQAQAQAAA=</HashCode>
+      <FileName>PhoneDecorator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="phone" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Decoratorr.SmartPhone">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="Decoratorr.Phone" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3" Y="0.812" />
+        <Point X="1.312" Y="0.812" />
+        <Point X="1.312" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>SmartPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decoratorr.VideoDecorator">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAAACAAAAAAAAAAAAAAAAAAAAACQAAAAA=</HashCode>
+      <FileName>VideoDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
